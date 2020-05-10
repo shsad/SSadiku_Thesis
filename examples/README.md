@@ -1,4 +1,4 @@
-# Overview of Examples
+  # Overview of Examples
 
 This `examples` directory contains cleaned up code regarding the usage of adaptive ODE solvers in machine learning. The scripts in this directory assume that `torchdiffeq` is installed following instructions from the main directory.
 
